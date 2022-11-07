@@ -1,11 +1,11 @@
 ---
-ms.topic: reference
-ms.devlang: java
-description: Reference for Azure Policy Insights SDK for Java
-ms.service: policyinsights
-ms.data: 11/05/2022
-title: Azure Policy Insights SDK for Java
+ms.data: 11/07/2022
 author: joshfree
+ms.devlang: java
+ms.topic: reference
+ms.service: policyinsights
+title: Azure Policy Insights SDK for Java
+description: Reference for Azure Policy Insights SDK for Java
 ms.author: jfree
 ---
 # Azure Policy Insights SDK for Java - preview

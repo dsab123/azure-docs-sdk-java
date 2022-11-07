@@ -1,11 +1,11 @@
 ---
-ms.topic: reference
-ms.devlang: java
-description: Reference for Azure Batch SDK for Java
-ms.service: batch
-ms.data: 11/05/2022
-title: Azure Batch SDK for Java
+ms.data: 11/07/2022
 author: gingi
+ms.devlang: java
+ms.topic: reference
+ms.service: batch
+title: Azure Batch SDK for Java
+description: Reference for Azure Batch SDK for Java
 ms.author: shpaster
 ms.date: 07/08/2022
 ---

@@ -1,11 +1,11 @@
 ---
-ms.topic: reference
-ms.devlang: java
-description: Reference for Azure Machine Learning SDK for Java
-ms.service: machinelearning
-ms.data: 11/05/2022
-title: Azure Machine Learning SDK for Java
+ms.data: 11/07/2022
 author: joshfree
+ms.devlang: java
+ms.topic: reference
+ms.service: machinelearning
+title: Azure Machine Learning SDK for Java
+description: Reference for Azure Machine Learning SDK for Java
 ms.author: jfree
 ---
 # Azure Machine Learning SDK for Java - preview

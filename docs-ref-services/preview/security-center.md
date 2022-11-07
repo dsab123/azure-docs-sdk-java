@@ -1,11 +1,11 @@
 ---
-ms.topic: reference
-ms.devlang: java
-description: Reference for Azure Security Center SDK for Java
-ms.service: securitycenter
-ms.data: 11/05/2022
-title: Azure Security Center SDK for Java
+ms.data: 11/07/2022
 author: joshfree
+ms.devlang: java
+ms.topic: reference
+ms.service: securitycenter
+title: Azure Security Center SDK for Java
+description: Reference for Azure Security Center SDK for Java
 ms.author: jfree
 ---
 # Azure Security Center SDK for Java - preview

@@ -1,11 +1,11 @@
 ---
-ms.topic: reference
-ms.devlang: java
-description: Reference for Azure Communication SDK for Java
-ms.service: communication
-ms.data: 11/05/2022
-title: Azure Communication SDK for Java
+ms.data: 11/07/2022
 author: joshfree
+ms.devlang: java
+ms.topic: reference
+ms.service: communication
+title: Azure Communication SDK for Java
+description: Reference for Azure Communication SDK for Java
 ms.author: jfree
 ---
 # Azure Communication SDK for Java - latest
