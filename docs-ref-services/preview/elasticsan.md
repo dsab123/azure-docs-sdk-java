@@ -1,12 +1,12 @@
 ---
-ms.service: elasticsan
-ms.topic: reference
-ms.data: 11/07/2022
-title: Azure Elasticsan SDK for Java
 author: joshfree
-ms.author: jfree
 ms.devlang: java
+ms.topic: reference
+title: Azure Elasticsan SDK for Java
+ms.data: 11/08/2022
+ms.service: elasticsan
 description: Reference for Azure Elasticsan SDK for Java
+ms.author: jfree
 ---
 # Azure Elasticsan SDK for Java - preview
 

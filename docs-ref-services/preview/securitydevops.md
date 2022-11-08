@@ -1,12 +1,12 @@
 ---
-ms.service: securitydevops
-ms.topic: reference
-ms.data: 11/07/2022
-title: Azure Securitydevops SDK for Java
 author: joshfree
-ms.author: jfree
 ms.devlang: java
+ms.topic: reference
+title: Azure Securitydevops SDK for Java
+ms.data: 11/08/2022
+ms.service: securitydevops
 description: Reference for Azure Securitydevops SDK for Java
+ms.author: jfree
 ---
 # Azure Securitydevops SDK for Java - preview
 
