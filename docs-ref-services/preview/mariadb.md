@@ -1,12 +1,12 @@
 ---
-title: Azure MariaDB SDK for Java
-ms.service: mariadb
-ms.devlang: java
-ms.topic: reference
-ms.data: 11/08/2022
 ms.author: jfree
+ms.topic: reference
 author: joshfree
+ms.data: 11/10/2022
 description: Reference for Azure MariaDB SDK for Java
+ms.service: mariadb
+title: Azure MariaDB SDK for Java
+ms.devlang: java
 ---
 # Azure MariaDB SDK for Java - preview
 
