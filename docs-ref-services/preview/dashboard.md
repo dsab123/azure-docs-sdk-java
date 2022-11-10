@@ -1,12 +1,12 @@
 ---
 ms.devlang: java
-ms.topic: reference
-ms.service: dashboard
-description: Reference for Azure Dashboard SDK for Java
-author: joshfree
-ms.data: 11/09/2022
-ms.author: jfree
 title: Azure Dashboard SDK for Java
+ms.data: 11/10/2022
+description: Reference for Azure Dashboard SDK for Java
+ms.topic: reference
+author: joshfree
+ms.service: dashboard
+ms.author: jfree
 ---
 # Azure Dashboard SDK for Java - preview
 

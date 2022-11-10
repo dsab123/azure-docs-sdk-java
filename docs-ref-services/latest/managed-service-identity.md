@@ -1,12 +1,12 @@
 ---
 ms.devlang: java
-ms.topic: reference
-ms.service: azure-resource-manager
-description: Reference for Azure Managed Service Identity SDK for Java
-author: joshfree
-ms.data: 11/09/2022
-ms.author: jfree
 title: Azure Managed Service Identity SDK for Java
+ms.data: 11/10/2022
+description: Reference for Azure Managed Service Identity SDK for Java
+ms.topic: reference
+author: joshfree
+ms.service: managedserviceidentity
+ms.author: jfree
 ---
 # Azure Managed Service Identity SDK for Java - latest
 
