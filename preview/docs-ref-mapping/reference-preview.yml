@@ -873,7 +873,7 @@
       children:
       - com.azure.messaging.eventhubs
       - com.azure.messaging.eventhubs.models
-    - name: Event Hubs - Azure Blob Storage Checkpoint Store
+    - name: Azure Blob Storage Checkpoint Store
       href: ~/docs-ref-services/preview/messaging-eventhubs-checkpointstore-blob-readme.md
       children:
       - com.azure.messaging.eventhubs.checkpointstore.blob
@@ -1374,7 +1374,7 @@
         - com.azure.resourcemanager.managedapplications.fluent
         - com.azure.resourcemanager.managedapplications.fluent.models
         - com.azure.resourcemanager.managedapplications.models
-  - name: Maps
+  - name: maps
     href: ~/docs-ref-services/preview/maps.md
     landingPageType: Service
     items:
