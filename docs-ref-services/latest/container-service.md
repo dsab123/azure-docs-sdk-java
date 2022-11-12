@@ -1,12 +1,12 @@
 ---
-author: joshfree
-title: Azure Container Service SDK for Java
-ms.service: containerservice
 ms.devlang: java
-ms.author: jfree
-description: Reference for Azure Container Service SDK for Java
-ms.data: 11/10/2022
+ms.service: container-service
 ms.topic: reference
+ms.data: 11/12/2022
+title: Azure Container Service SDK for Java
+author: joshfree
+description: Reference for Azure Container Service SDK for Java
+ms.author: jfree
 ---
 # Azure Container Service SDK for Java - latest
 

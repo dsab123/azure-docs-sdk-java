@@ -969,7 +969,7 @@
       {
         "packageArtifactId": "azure-security-attestation",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.1.7",
+        "packageVersion": "1.1.8",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {
@@ -1017,7 +1017,7 @@
       {
         "packageArtifactId": "azure-iot-deviceupdate",
         "packageGroupId": "com.azure",
-        "packageVersion": "1.0.1",
+        "packageVersion": "1.0.2",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       },
       {

@@ -1,12 +1,12 @@
 ---
-author: joshfree
-title: Azure Resource Health SDK for Java
-ms.service: resourcehealth
 ms.devlang: java
-ms.author: jfree
-description: Reference for Azure Resource Health SDK for Java
-ms.data: 11/10/2022
+ms.service: resourcehealth
 ms.topic: reference
+ms.data: 11/12/2022
+title: Azure Resource Health SDK for Java
+author: joshfree
+description: Reference for Azure Resource Health SDK for Java
+ms.author: jfree
 ---
 # Azure Resource Health SDK for Java - preview
 

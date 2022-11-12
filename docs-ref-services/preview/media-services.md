@@ -1,12 +1,12 @@
 ---
-author: joshfree
-title: Azure Media Services SDK for Java
-ms.service: mediaservices
 ms.devlang: java
-ms.author: jfree
-description: Reference for Azure Media Services SDK for Java
-ms.data: 11/10/2022
+ms.service: mediaservices
 ms.topic: reference
+ms.data: 11/12/2022
+title: Azure Media Services SDK for Java
+author: joshfree
+description: Reference for Azure Media Services SDK for Java
+ms.author: jfree
 ---
 # Azure Media Services SDK for Java - preview
 

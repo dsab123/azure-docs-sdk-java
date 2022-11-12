@@ -1,12 +1,12 @@
 ---
-author: joshfree
-title: Azure Translator SDK for Java
-ms.service: translator
 ms.devlang: java
-ms.author: jfree
-description: Reference for Azure Translator SDK for Java
-ms.data: 11/10/2022
+ms.service: translator
 ms.topic: reference
+ms.data: 11/12/2022
+title: Azure Translator SDK for Java
+author: joshfree
+description: Reference for Azure Translator SDK for Java
+ms.author: jfree
 ---
 # Azure Translator SDK for Java - preview
 

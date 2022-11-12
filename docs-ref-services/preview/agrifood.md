@@ -1,12 +1,12 @@
 ---
-author: joshfree
-title: Azure AgriFood SDK for Java
-ms.service: agrifood
 ms.devlang: java
-ms.author: jfree
-description: Reference for Azure AgriFood SDK for Java
-ms.data: 11/10/2022
+ms.service: agrifood
 ms.topic: reference
+ms.data: 11/12/2022
+title: Azure AgriFood SDK for Java
+author: joshfree
+description: Reference for Azure AgriFood SDK for Java
+ms.author: jfree
 ---
 # Azure AgriFood SDK for Java - preview
 

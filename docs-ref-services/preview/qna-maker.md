@@ -1,12 +1,12 @@
 ---
-author: joshfree
-title: Azure QnA Maker SDK for Java
-ms.service: qnamaker
 ms.devlang: java
-ms.author: jfree
-description: Reference for Azure QnA Maker SDK for Java
-ms.data: 11/10/2022
+ms.service: qnamaker
 ms.topic: reference
+ms.data: 11/12/2022
+title: Azure QnA Maker SDK for Java
+author: joshfree
+description: Reference for Azure QnA Maker SDK for Java
+ms.author: jfree
 ---
 # Azure QnA Maker SDK for Java - preview
 

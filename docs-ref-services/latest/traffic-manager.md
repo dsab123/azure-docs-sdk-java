@@ -1,12 +1,12 @@
 ---
-author: joshfree
-title: Azure Traffic Manager SDK for Java
-ms.service: trafficmanager
 ms.devlang: java
-ms.author: jfree
-description: Reference for Azure Traffic Manager SDK for Java
-ms.data: 11/10/2022
+ms.service: trafficmanager
 ms.topic: reference
+ms.data: 11/12/2022
+title: Azure Traffic Manager SDK for Java
+author: joshfree
+description: Reference for Azure Traffic Manager SDK for Java
+ms.author: jfree
 ms.date: 07/08/2022
 ---
 # Azure Traffic Manager libraries for Java

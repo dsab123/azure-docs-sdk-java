@@ -1,12 +1,12 @@
 ---
-author: joshfree
-title: Azure Network Function SDK for Java
-ms.service: networkfunction
 ms.devlang: java
-ms.author: jfree
-description: Reference for Azure Network Function SDK for Java
-ms.data: 11/10/2022
+ms.service: networkfunction
 ms.topic: reference
+ms.data: 11/12/2022
+title: Azure Network Function SDK for Java
+author: joshfree
+description: Reference for Azure Network Function SDK for Java
+ms.author: jfree
 ---
 # Azure Network Function SDK for Java - preview
 
